@@ -1,8 +1,8 @@
-The structure of skills was peeped from [Lemonbrush]. Thank you, man! (https://github.com/Lemonbrush/My-iOS-Dev-Learning-Tracker)
+The structure of skills was peeped from [Lemonbrush](https://github.com/Lemonbrush/My-iOS-Dev-Learning-Tracker). Thank you, man! 
 
 # :rocket: MY SKILLS IN PROGRAMMING
 
-## Most important links
+Most important links! (здесь будет ссылка на страничку с ссылками или на папку)
 
 ## **Languages**
 
