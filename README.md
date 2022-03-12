@@ -213,7 +213,7 @@ Most important links! (здесь будет ссылка на страничк�
 #### `Version Control Systems`
 - [ ] `Git`
     - [ ] How to config
-    - [x] How to clone
+      [x] How to clone
     - [x] How to commit
     - [ ] How to pull
     - [x] How to push
