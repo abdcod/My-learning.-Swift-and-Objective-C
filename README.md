@@ -211,9 +211,9 @@ Most important links! (здесь будет ссылка на страничк�
 #### `Project structure organisation`
 
 #### `Version Control Systems`
-- [ ] `Git`
+- [ ] Git
     - [ ] How to config
-      [x] How to clone
+    - [x] How to clone
     - [x] How to commit
     - [ ] How to pull
     - [x] How to push
