@@ -214,9 +214,9 @@ Most important links! (здесь будет ссылка на страничк�
 - [ ] `Git`
     - [ ] How to config
     - [x] How to clone
-    - [ ] How to commit
+    - [x] How to commit
     - [ ] How to pull
-    - [ ] How to push
+    - [x] How to push
     - [ ] How to create/change/delete/merge branches
     - [ ] How to log
     - [ ] How to reflog
