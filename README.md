@@ -50,16 +50,16 @@ Most important links! (здесь будет ссылка на страничк�
         - [ ] NSZombies and KVO implementation
         - [ ] Swizzling
 - [ ] `Swift`
-    - [ ] The Basics
-    - [ ] Basic operators
-    - [ ] Strings and Characters
-    - [ ] Collection Types
+    - [x] The Basics
+    - [x] Basic operators
+    - [x] Strings and Characters
+    - [x] Collection Types
     - [ ] Control Flow
-    - [ ] Functions
+    - [x] Functions
     - [ ] Closures
     - [ ] `Enums`
     - [ ] `Structures and Classes`
-    - [ ] Properties
+    - [x] Properties
     - [ ] Methods
     - [ ] Subscript
     - [ ] Inheritance
@@ -345,7 +345,7 @@ Most important links! (здесь будет ссылка на страничк�
 - [ ] Problems
 
 #### Programming Paradigms
-- [ ] Object-Oriented
+- [x] Object-Oriented
 - [ ] Functional
     - [ ] Functional Reactive Programming Frameworks
         - [ ] React Native
